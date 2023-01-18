@@ -1,4 +1,5 @@
 import Sidebar from "../../../components/SideBar";
+import Tables from "../../../components/table";
 import Header from "../../../components/TopBar";
 
 import { Conteudo } from '../../assets/common styles/styled';
@@ -10,7 +11,8 @@ export default function Produtos (){
             <Sidebar />
             <Conteudo2>
                 <Header />
-                <div>CUM</div>
+                {/* <div>CUM</div> */}
+                <Tables />
             </Conteudo2>
         </Conteudo>
     )

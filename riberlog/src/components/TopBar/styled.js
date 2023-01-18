@@ -9,7 +9,7 @@ const Conteudo = styled.div`
 }
 
 button{
-    margin: 1vw 2vw 0vw 0vw;
+    // margin: 1vw 2vw 0vw 0vw;
     padding:0.5em 0.68em 0.5em 0.68em;
 
     background-color:transparent;
