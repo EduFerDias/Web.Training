@@ -1,0 +1,15 @@
+body{
+    margin:0px;
+}
+@font-face {
+    font-family: Be-Vietnam-Light;
+    src: url('./contents/assets/fonts/Be_Vietnam_Pro/BeVietnamPro-Light.ttf');
+}
+@font-face {
+    font-family: Be-Vietnam-Regular;
+    src: url('contents/assets/fonts/Be_Vietnam_Pro/BeVietnamPro-Regular.ttf');
+}
+@font-face {
+    font-family: Be-Vietnam-SemiBold;
+    src: url('contents/assets/fonts/Be_Vietnam_Pro/BeVietnamPro-SemiBold.ttf');
+}
